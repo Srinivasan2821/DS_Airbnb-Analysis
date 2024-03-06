@@ -1,4 +1,4 @@
-**AIRBNB DATA ANALYSIS**
+_**AIRBNB DATA ANALYSIS**_
 
 **1. Data Collection:**
   Gather data from Airbnb's public API or other available sources. Collect information on listings, hosts, reviews, pricing, and location data.

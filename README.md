@@ -6,7 +6,7 @@
 **2. Data Cleaning and Preprocessing:**
   Clean and preprocess the data to handle missing values, outliers, and ensure data quality. Convert data types, handle duplicates, and standardize formats.
 
-**3. Exploratory Data Analysis (EDA): **
+**3. Exploratory Data Analysis (EDA):**
   Conduct exploratory data analysis to understand the distribution and patterns in the data. Explore relationships between variables and identify potential insights.
 
 **4. Visualization:**

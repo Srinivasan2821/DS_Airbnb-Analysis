@@ -1,6 +1,6 @@
 ![image](https://github.com/Srinivasan2821/DS_Airbnb-Analysis/assets/154582529/8478fc62-f936-4df6-b47d-73d84a62bf6a)
 
-#_**AIRBNB DATA ANALYSIS**_
+# _**AIRBNB DATA ANALYSIS**_
 
 **1. Data Collection:**
   Gather data from Airbnb's public API or other available sources. Collect information on listings, hosts, reviews, pricing, and location data.

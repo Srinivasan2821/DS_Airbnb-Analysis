@@ -1,3 +1,5 @@
+![image](https://github.com/Srinivasan2821/DS_Airbnb-Analysis/assets/154582529/8478fc62-f936-4df6-b47d-73d84a62bf6a)
+
 _**AIRBNB DATA ANALYSIS**_
 
 **1. Data Collection:**
